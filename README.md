@@ -8,7 +8,7 @@ yarn add -D git+https://github.com/ch3coo2ca/eslint-config-react-ts.git
 
 ## Install plugins
 ```
-yarn add -D eslint eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-hooks @typescript-eslint/eslint-plugin typescript
+yarn add -D eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks typescript @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-airbnb-typescript
 ```
 
 ```
